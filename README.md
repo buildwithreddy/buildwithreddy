@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Bayya Reddy(@buildwithreddy)
-- 👀 I’m interested in Video Editing, Thumbnail designing, Website designing, Online tutoring (for c, python, HTML, CSS, JS), Figma, and Bodybuilding(You can hire me as your coach😜).
-- 🌱 I’m currently learning motion graphics and blender
-- 💞️ I’m looking to collaborate on YouTube video editing(long and short videos) and Thumbnail designing
-- 📫 How to reach me Instagram(https://www.instagram.com/d.bayya_reddy), E-mail(mailto:bayyareddyfeelancer@gmail.com)
+- 👋 Hi, I’m Bayya Reddy (@buildwithreddy)
+- 👀 I’m passionate about video editing, thumbnail design, website development, and online tutoring for C, Python, HTML, CSS, JS.
+- 🎨 I also know Figma and love crafting visually appealing designs.
+- 🏋️‍♂️ When I’m not designing or coding, you’ll find me in the gym—I'm also a bodybuilding coach!
+- 🌱 Currently learning motion graphics and Blender to take my skills to the next level.
+- 💞️ Looking to collaborate on YouTube video editing (long and short formats) and thumbnail design.
+- 📫 Reach me on Instagram or via E-mail at bayyareddyfreelancer@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can lift weights and code at the same time! 💪👨‍💻
 
