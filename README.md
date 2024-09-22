@@ -4,7 +4,7 @@
 - 🏋️‍♂️ When I’m not designing or coding, you’ll find me in the gym—I'm also a bodybuilding coach!
 - 🌱 Currently learning motion graphics and Blender to take my skills to the next level.
 - 💞️ Looking to collaborate on YouTube video editing (long and short formats) and thumbnail design.
-- 📫 Reach me on Instagram or via E-mail at bayyareddyfreelancer@gmail.com
+- 📫 Reach me on <a href='https://www.instagram.com/d.bayya_reddy'>Instagram</a> or via E-mail at bayyareddyfreelancer@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can lift weights and code at the same time! 💪👨‍💻
 
