@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bayya Reddy (@buildwithreddy)
+- 👋 Hi, I’m Bayya Reddy (<a href='https://github.com/buildwithreddy'>@buildwithreddy</a>)
 - 👀 I’m passionate about video editing, thumbnail design, website development, and online tutoring for C, Python, HTML, CSS, JS.
 - 🎨 I also know Figma and love crafting visually appealing designs.
 - 🏋️‍♂️ When I’m not designing or coding, you’ll find me in the gym—I'm also a bodybuilding coach!
